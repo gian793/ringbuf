@@ -881,23 +881,4 @@ TEST(ringbuf, getData_different_type )
 
 }
 
-
-
-
-	
-	///////////////////// DEBUG /////////////////////
-	/*
-	std::cout << "Head size: " << testBuf.getHeadSize() << std::endl << std::endl;
-	
-	std::cout << "Tail size: " << testBuf.getTailSize() << std::endl << std::endl;
-	
-	std::cout << "Tot size: " << testBuf.getHeadSize() + testBuf.getTailSize() + 2*sizeof(rbItem_t) << std::endl << std::endl;
-	*/
-
-	
-	/////////////////////////////////////////////////
-	
-
-	
-	/*-------------------*/
 	
