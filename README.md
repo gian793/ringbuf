@@ -21,7 +21,7 @@ This ring buffer implementation permits only sequential access i.e. from the hea
 - `getHead()`
 - `getTail()`
 
-Notice that the above functions do not remove the items from the ring buffer.
+**Note:** the above functions do not remove the items from the ring buffer.
   
 Iteration over the items of the buffer can be done by using items' pointers:
 
