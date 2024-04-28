@@ -28,7 +28,7 @@
  *
  * This file is part of ringbuf - Ring buffer for variable size elements.
  *
- * Author:          Giancarlo-Marcolin <giancarlo.marcolin@gmail.com>
+ * Author:          Giancarlo+Marcolin <giancarlo.marcolin@gmail.com>
  * Version:         v1.0.0
  */
 
