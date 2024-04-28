@@ -35,6 +35,7 @@
 #ifndef C_RING_BUF_HPP
 #define C_RING_BUF_HPP
 
+
 #include <cstdint>
 
 #ifdef __cplusplus
